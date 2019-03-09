@@ -1,0 +1,22 @@
+{
+  "name": "ubuntu-mono-ligaturized",
+  "version": "1.0.0",
+  "description": "Ubuntu Mono font with programming ligatures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datavis-tech/ubuntu-mono-ligaturized.git"
+  },
+  "keywords": [
+    "Font"
+  ],
+  "author": "ToxicFrog & friends",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/datavis-tech/ubuntu-mono-ligaturized/issues"
+  },
+  "homepage": "https://github.com/datavis-tech/ubuntu-mono-ligaturized#readme"
+}
