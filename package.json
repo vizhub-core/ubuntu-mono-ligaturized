@@ -1,6 +1,6 @@
 {
   "name": "ubuntu-mono-ligaturized",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Ubuntu Mono font with programming ligatures.",
   "main": "index.js",
   "scripts": {
